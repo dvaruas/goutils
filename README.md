@@ -1,2 +1,3 @@
 # goutils
-A collection of personal utility scripts in Go
+
+A collection of personal utility scripts written in Go.
